@@ -1,0 +1,26 @@
+{
+  "name": "MODULE",
+  "version": "1.0.0",
+  "description": "MODULE_DESCRIPTION",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gakimball/MODULE.git"
+  },
+  "keywords": [
+    "MODULE"
+  ],
+  "author": "Geoff Kimball <geoff@geoffkimball.com> (http://geoffkimball.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gakimball/MODULE/issues"
+  },
+  "homepage": "https://github.com/gakimball/MODULE#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

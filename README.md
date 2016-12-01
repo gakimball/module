@@ -17,8 +17,8 @@ npm install MODULE
 ## Local Development
 
 ```bash
-git clone https://github.com/gakimball/tree-search
-cd tree-search
+git clone https://github.com/gakimball/MODULE
+cd MODULE
 npm install
 npm test
 ```

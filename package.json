@@ -4,6 +4,7 @@
   "description": "MODULE_DESCRIPTION",
   "main": "index.js",
   "scripts": {
+    "prepublish": "eslint",
     "test": "mocha"
   },
   "repository": {
@@ -20,7 +21,9 @@
   },
   "homepage": "https://github.com/gakimball/MODULE#readme",
   "devDependencies": {
+    "@gakimball/eslint-config": "^1.0.0",
     "chai": "^3.5.0",
+    "eslint": "^3.15.0",
     "mocha": "^3.2.0"
   },
   "engines": {

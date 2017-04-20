@@ -4,8 +4,7 @@
   "description": "MODULE_DESCRIPTION",
   "main": "index.js",
   "scripts": {
-    "prepublish": "eslint",
-    "test": "mocha"
+    "test": "eslint && mocha"
   },
   "repository": {
     "type": "git",

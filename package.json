@@ -4,7 +4,7 @@
   "description": "MODULE_DESCRIPTION",
   "main": "index.js",
   "scripts": {
-    "test": "eslint && mocha"
+    "test": "xo && mocha"
   },
   "repository": {
     "type": "git",

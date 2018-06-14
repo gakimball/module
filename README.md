@@ -2,7 +2,7 @@
 
 > MODULE_DESCRIPTION
 
-[![Travis](https://img.shields.io/travis/gakimball/MODULE.svg?maxAge=2592000)](https://travis-ci.org/gakimball/MODULE) [![npm](https://img.shields.io/npm/v/MODULE.svg?maxAge=2592000)](https://www.npmjs.com/package/MODULE)
+[![Travis](https://img.shields.io/travis/gakimball/MODULE.svg?maxAge=2592000)](https://travis-ci.org/gakimball/MODULE) [![npm](https://img.shields.io/npm/v/MODULE.svg?maxAge=2592000)](https://www.npmjs.com/package/MODULE) [![Greenkeeper badge](https://badges.greenkeeper.io/gakimball/module.svg)](https://greenkeeper.io/)
 
 ## Installation
 
